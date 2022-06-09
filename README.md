@@ -1,2 +1,2 @@
 # POE-5-1
-Ejercicio de Prueba
+Programación Orientada a Eventos
